@@ -12,3 +12,10 @@
     color: blueviolet;;
     font-weight: 500;
 }
+.main-button{
+    background-color: goldenrod;
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
